@@ -6,12 +6,12 @@
 > -  **Link:** <https://github.com/AnastasiaChernikova/Machine-Learning/blob/master/FirstTask.ipynb>
 
 > In this task I created a program that multiplies matrices. 
-- Pure way in python:
-  1.3647644000000128
-- Using Numpy:
-  0.0006633000000419997
-- Own threading way:
-  0.10854268074035645
+>> - Pure way in python:
+>>  1.3647644000000128
+>> - Using Numpy:
+>>  0.0006633000000419997
+>> - Own threading way:
+>>  0.10854268074035645
 
 ## Task 2
 > -  **Deadline:** Feb 26, 2020
