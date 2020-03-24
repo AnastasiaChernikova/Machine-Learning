@@ -1,19 +1,21 @@
 # Machine-Learning
 
 ## Task 1
+> -  ### Matrix mult
 > -  **Deadline:** Feb 19, 2020
 > -  **Uploading date:** Mar 4, 2020 
 > -  **Link:** <https://github.com/AnastasiaChernikova/Machine-Learning/blob/master/FirstTask.ipynb>
 
 > In this task I created a program that multiplies matrices. 
->> - Pure way in python:
->>  1.3647644000000128
->> - Using Numpy:
->>  0.0006633000000419997
->> - Own threading way:
->>  0.10854268074035645
+- Pure way in python:
+  1.3647644000000128
+- Using Numpy:
+  0.0006633000000419997
+- Own threading way:
+  0.10854268074035645
 
 ## Task 2
+> -  ### Linear regression
 > -  **Deadline:** Feb 26, 2020
 > -  **Uploading date:** 
 > -  **Link:** <...>
@@ -23,6 +25,7 @@
 > ...
 
 ## Individual task 1
+> -  ### Linear regression
 > -  **Deadline:** Mar 11, 2020
 > -  **Uploading date:** Mar 11, 2020
 > -  **Link:** <https://github.com/AnastasiaChernikova/Machine-Learning/blob/master/Induvidual.ipynb>
@@ -32,18 +35,29 @@
 > _Note: Due to a bad internet connection, I asked Yaroslav Andreev to add task. Therefore, there are two contributors in the Induvidual.ipynb_
 
 ## Task 3 
-> - #### **Deadline:** Mar 18, 2020
-> - #### **Uploading date:** Mar 18, 2020
-> -  **Link:** <...>
+> - ### Logistic regression
+> - **Deadline:** Mar 25, 2020
+> - **Uploading date:** 
+> - **Link:** <...>
 
 > ...
 
 > ...
 
+## Task 4 
+> - ### Neural networks
+> - **Deadline:** Apr 1, 2020 
+> - **Uploading date:** 
+> - **Link:** <...>
+
+> ...
+
+> ...
 
 ## Individual task 2
-> - #### **Deadline:**   
-> - #### **Uploading date:**
+> - ### Binary logistic regression
+> - **Deadline:** Apr 8, 2020  
+> - **Uploading date:**
 
 > ...
 
