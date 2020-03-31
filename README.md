@@ -17,12 +17,10 @@
 ## Task 2
 > -  ### Linear regression
 > -  **Deadline:** Feb 26, 2020
-> -  **Uploading date:** 
-> -  **Link:** <...>
+> -  **Uploading date:** Mar 31, 2020
+> -  **Link:** <https://github.com/AnastasiaChernikova/Machine-Learning/blob/master/SecondTask.ipynb>
 
-> ...
-
-> ...
+> In this task I created a program that work with burrito.csv <https://github.com/AnastasiaChernikova/Machine-Learning/blob/master/burrito.csv> and real_estate.tsv <https://github.com/AnastasiaChernikova/Machine-Learning/blob/master/real_estate.tsv>
 
 ## Individual task 1
 > -  ### Linear regression
