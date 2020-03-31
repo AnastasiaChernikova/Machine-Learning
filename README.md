@@ -20,7 +20,11 @@
 > -  **Uploading date:** Mar 31, 2020
 > -  **Link:** <https://github.com/AnastasiaChernikova/Machine-Learning/blob/master/SecondTask.ipynb>
 
-> In this task I created a program that work with burrito.csv <https://github.com/AnastasiaChernikova/Machine-Learning/blob/master/burrito.csv> and real_estate.tsv <https://github.com/AnastasiaChernikova/Machine-Learning/blob/master/real_estate.tsv>
+> In this task I created a program that work with burrito.csv and real_estate.tsv. I completed task linear regression
+
+> **Data:** 
+- burrito.csv <https://github.com/AnastasiaChernikova/Machine-Learning/blob/master/burrito.csv>
+- real_estate.tsv <https://github.com/AnastasiaChernikova/Machine-Learning/blob/master/real_estate.tsv>
 
 ## Individual task 1
 > -  ### Linear regression
@@ -35,12 +39,14 @@
 ## Task 3 
 > - ### Logistic regression
 > - **Deadline:** Mar 25, 2020
-> - **Uploading date:** 
-> - **Link:** <...>
+> - **Uploading date:** Mar 31, 2020
+> - **Link:** <https://github.com/AnastasiaChernikova/Machine-Learning/blob/master/ThirdTask.ipynb>
 
-> ...
+> In this task I created a program that work with sats.csv and tests.csv. I completed task logistic regression.
 
-> ...
+> **Data:** 
+- sats.csv <https://github.com/AnastasiaChernikova/Machine-Learning/blob/master/sats.csv>
+- tests.csv <https://github.com/AnastasiaChernikova/Machine-Learning/blob/master/tests.csv>
 
 ## Task 4 
 > - ### Neural networks
