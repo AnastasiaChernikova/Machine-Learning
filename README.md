@@ -51,12 +51,14 @@
 ## Task 4 
 > - ### Neural networks
 > - **Deadline:** Apr 1, 2020 
-> - **Uploading date:** 
-> - **Link:** <...>
+> - **Uploading date:** Apr 2, 2020
+> - **Link:** <https://github.com/AnastasiaChernikova/Machine-Learning/blob/master/FourthTask.ipynb>
 
-> ...
+> In this task I created a program that work with sats.csv and tests.csv. I completed task neural networks. 
 
-> ...
+> **Data:** 
+- sats.csv <https://github.com/AnastasiaChernikova/Machine-Learning/blob/master/sats.csv>
+- tests.csv <https://github.com/AnastasiaChernikova/Machine-Learning/blob/master/tests.csv>
 
 ## Individual task 2
 > - ### Binary logistic regression
