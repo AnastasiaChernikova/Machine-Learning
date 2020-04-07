@@ -63,9 +63,15 @@
 ## Individual task 2
 > - ### Binary logistic regression
 > - **Deadline:** Apr 8, 2020  
-> - **Uploading date:**
+> - **Uploading date:** Apr 8, 2020 
+> - **Link:** <https://github.com/AnastasiaChernikova/Machine-Learning/blob/master/IT2_Iris.ipynb>
 
-> ...
+> In this task I worked with dataset [Iris Species](https://www.kaggle.com/uciml/iris). The Iris dataset was used in R.A. Fisher's classic 1936 paper, The Use of Multiple Measurements in Taxonomic Problems, and can also be found on the UCI Machine Learning Repository. It includes three iris species with 50 samples each as well as some properties about each flower. One flower species is linearly separable from the other two, but the other two are not linearly separable from each other.
 
-> ...
+> **Data:** 
+- Iris.csv <https://github.com/AnastasiaChernikova/Machine-Learning/blob/master/Iris.csv>
+- IT2.jpg <https://github.com/AnastasiaChernikova/Machine-Learning/blob/master/IT2.jpg>
+- setosa.jpg <https://github.com/AnastasiaChernikova/Machine-Learning/blob/master/setosa.jpg>
+- versicolor.jpg <https://github.com/AnastasiaChernikova/Machine-Learning/blob/master/versicolor.jpg>
+- virginica.jpg <https://github.com/AnastasiaChernikova/Machine-Learning/blob/master/virginica.jpg>
 
