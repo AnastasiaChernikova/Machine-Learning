@@ -75,3 +75,53 @@
 - versicolor.jpg <https://github.com/AnastasiaChernikova/Machine-Learning/blob/master/versicolor.jpg>
 - virginica.jpg <https://github.com/AnastasiaChernikova/Machine-Learning/blob/master/virginica.jpg>
 
+## Task 5
+> - ### Softmax
+> - **Deadline:** Apr 8, 2020  
+> - **Uploading date:** 
+> - **Link:** <...>
+
+> ...
+
+> **Data:** 
+
+## Task 6
+> - ### Regularization & optimization
+> - **Learning rate decay**
+> - **Deadline:** Apr 15, 2020  
+> - **Uploading date:** 
+> - **Link:** <...>
+
+> ...
+
+> **Data:** 
+
+## Task 7
+> - ### Text classification
+> - **Deadline:** Apr 29, 2020  
+> - **Uploading date:** 
+> - **Link:** <...>
+
+> ...
+
+> **Data:** 
+
+## Task 8
+> - ### K-means clustering
+> - **Deadline:** May 13, 2020  
+> - **Uploading date:** 
+> - **Link:** <...>
+
+> ...
+
+> **Data:** 
+
+## Individual task 3
+> - ### Neural networks for multiclass classification
+> - **Deadline:** May 13, 2020  
+> - **Uploading date:** 
+> - **Link:** <...>
+
+> ...
+
+> **Data:** 
