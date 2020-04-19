@@ -78,12 +78,13 @@
 ## Task 5
 > - ### Softmax
 > - **Deadline:** Apr 8, 2020  
-> - **Uploading date:** 
-> - **Link:** <...>
+> - **Uploading date:** Apr 19, 2020 
+> - **Link:** <https://github.com/AnastasiaChernikova/Machine-Learning/blob/master/FifthTask.ipynb>
 
-> ...
+> In this task I worked with dataset [Iris Species](https://www.kaggle.com/uciml/iris). I've added to my previous task Softmax  function
 
 > **Data:** 
+- Iris.csv https://github.com/AnastasiaChernikova/Machine-Learning/blob/master/Iris.csv.
 
 ## Task 6
 > - ### Regularization & optimization
