@@ -84,18 +84,20 @@
 > In this task I worked with dataset [Iris Species](https://www.kaggle.com/uciml/iris). I've added to my previous task Softmax  function
 
 > **Data:** 
-- Iris.csv https://github.com/AnastasiaChernikova/Machine-Learning/blob/master/Iris.csv.
+- Iris.csv <https://github.com/AnastasiaChernikova/Machine-Learning/blob/master/Iris.csv>
 
 ## Task 6
 > - ### Regularization & optimization
 > - **Learning rate decay**
 > - **Deadline:** Apr 15, 2020  
-> - **Uploading date:** 
-> - **Link:** <...>
+> - **Uploading date:** Apr 20, 2020 
+> - **Link:** <https://github.com/AnastasiaChernikova/Machine-Learning/blob/master/SixthTask.ipynb>
 
-> ...
+> To achieve better performance of your neural network, it is necessary to find the optimal value of learning rate that is not too large and not too small. There are several approaches to find the best learning rate. So in this task i will show work of NN with Learning Rate Decay and Learning Rate
 
 > **Data:** 
+- Iris.csv <https://github.com/AnastasiaChernikova/Machine-Learning/blob/master/Iris.csv>
+
 
 ## Task 7
 > - ### Text classification
