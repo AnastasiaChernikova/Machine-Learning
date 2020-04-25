@@ -102,12 +102,13 @@
 ## Task 7
 > - ### Text classification
 > - **Deadline:** Apr 29, 2020  
-> - **Uploading date:** 
-> - **Link:** <...>
+> - **Uploading date:** Apr 25, 2020 
+> - **Link:** <https://github.com/AnastasiaChernikova/Machine-Learning/blob/master/SeventhTask.ipynb>
 
-> ...
-
-> **Data:** 
+> In this task I`m working with [20 Newsgroups dataset](https://scikit-learn.org/0.19/datasets/twenty_newsgroups.html) which has become a popular data set for experiments in text applications of machine learning techniques, such as text classification and text clustering.  I have done all the requirements for the task:
+> * accuracy_score
+> * classification_report
+> * confusion_matrix 
 
 ## Task 8
 > - ### K-means clustering
