@@ -118,6 +118,7 @@
 
 > In this task I worked with dataset [Iris Species](https://www.kaggle.com/uciml/iris) and realized K-means Clustering.
 
+> **Data:** 
 - Iris.csv <https://github.com/AnastasiaChernikova/Machine-Learning/blob/master/Iris.csv>
 
 ## Individual task 3
