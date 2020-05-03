@@ -105,7 +105,7 @@
 > - **Uploading date:** Apr 25, 2020 
 > - **Link:** <https://github.com/AnastasiaChernikova/Machine-Learning/blob/master/SeventhTask.ipynb>
 
-> In this task I`m working with [20 Newsgroups dataset](https://scikit-learn.org/0.19/datasets/twenty_newsgroups.html) which has become a popular data set for experiments in text applications of machine learning techniques, such as text classification and text clustering.  I have done all the requirements for the task:
+> In this task I am working with [20 Newsgroups dataset](https://scikit-learn.org/0.19/datasets/twenty_newsgroups.html) which has become a popular data set for experiments in text applications of machine learning techniques, such as text classification and text clustering.  I have done all the requirements for the task:
 > * accuracy_score
 > * classification_report
 > * confusion_matrix 
@@ -113,12 +113,12 @@
 ## Task 8
 > - ### K-means clustering
 > - **Deadline:** May 13, 2020  
-> - **Uploading date:** 
-> - **Link:** <...>
+> - **Uploading date:** May 03, 2020 
+> - **Link:** <https://github.com/AnastasiaChernikova/Machine-Learning/blob/master/EighthTask.ipynb>
 
-> ...
+> In this task I worked with dataset [Iris Species](https://www.kaggle.com/uciml/iris) and realized K-means Clustering.
 
-> **Data:** 
+- Iris.csv <https://github.com/AnastasiaChernikova/Machine-Learning/blob/master/Iris.csv>
 
 ## Individual task 3
 > - ### Neural networks for multiclass classification
